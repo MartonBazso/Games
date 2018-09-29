@@ -1,0 +1,20 @@
+{
+    "parent":"builtin/generated",
+    "textures": {
+        "layer0":"xiaolin:items/tornami"
+        
+    },
+    "display": {
+    "thirdperson": {
+        "rotation": [ 342, 352, 172 ],
+        "translation": [ 0.00, 1.75, -1.50 ],
+        "scale": [ 0.30, 0.30, 2.00 ]
+    },
+    "firstperson": {
+        "rotation": [ 258, 28, 310 ],
+        "translation": [ 3.25, 0.00, 0.00 ],
+        "scale": [ 1.00, 1.03, 2.25 ]
+    }
+    
+    }
+}

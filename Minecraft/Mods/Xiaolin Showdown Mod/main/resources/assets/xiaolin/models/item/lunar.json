@@ -1,0 +1,19 @@
+{
+    "parent":"builtin/generated",
+    "textures": {
+        "layer0":"xiaolin:items/lunar"
+    },
+    "display": {
+       
+        "thirdperson": {
+            "rotation": [ 344, 182, 158 ],
+            "translation": [ 0.50, 2.50, -0.75 ],
+            "scale": [ 0.30, 0.30, 0.30 ]
+        },
+        "firstperson": {
+            "rotation": [ 0, 135, 0 ],
+            "translation": [ 0, 4, 2 ],
+            "scale": [ 1.7, 1.7, 1.7 ]
+        }
+    }
+}

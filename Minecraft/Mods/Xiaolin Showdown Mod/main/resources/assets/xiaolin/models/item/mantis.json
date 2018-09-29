@@ -1,0 +1,18 @@
+{
+    "parent":"builtin/generated",
+    "textures": {
+        "layer0":"xiaolin:items/mantis"
+    },
+    "display": {
+        "thirdperson": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ -0.25, 1.25, -1.50 ],
+        "scale": [ 0.20, 0.20, 0.20 ]
+    },
+    "firstperson": {
+        "rotation": [ 122, 258, 58 ],
+        "translation": [ -6.00, 5.50, 1.50 ],
+        "scale": [ 0.50, 0.50, 1.00 ]
+    }
+    }
+}

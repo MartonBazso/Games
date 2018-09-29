@@ -1,0 +1,23 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "xiaolin:items/shroud"
+    },
+    "display": {
+    "thirdperson": {
+        "rotation": [ 338, 18, 292 ],
+        "translation": [ -1.5, 5.5, -3 ],
+        "scale": [ 1.27, 1.19, 1.18 ]
+    },
+    "firstperson": {
+        "rotation": [ 0, 239, 45 ],
+        "translation": [ 20, -0.25, -5.75 ],
+        "scale": [ 3.36, 3.44, 1.9 ]
+    },
+    "gui": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0, 0.75, 0],
+        "scale": [ 1, 1, 1 ]
+    }
+  }
+}

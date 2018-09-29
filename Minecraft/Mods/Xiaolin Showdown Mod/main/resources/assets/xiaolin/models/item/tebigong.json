@@ -1,0 +1,23 @@
+{
+    "parent":"builtin/generated",
+    "textures": {
+        "layer0":"xiaolin:items/tebigong"
+    },
+    "display": {
+        "thirdperson": {
+            "rotation": [ 358, 358, 358 ],
+            "translation": [ 0.00, 2.50, -0.50 ],
+            "scale": [ 1.13, 0.85, 4.86 ]
+        },
+        "firstperson": {
+            "rotation": [ 68, 116, 336 ],
+            "translation": [ -6.50, 6.50, 0.50 ],
+            "scale": [ 1.31, 1.18, 4.89 ]
+        },
+    "gui": {
+        "rotation": [ 0, 354, 16 ],
+        "translation": [ -0.25, 0.50, 3.25 ],
+        "scale": [ 1.00, 1.00, 1.00 ]
+    }
+    }
+}

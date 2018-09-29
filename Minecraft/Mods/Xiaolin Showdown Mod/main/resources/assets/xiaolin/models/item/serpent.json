@@ -1,0 +1,19 @@
+{
+    "parent":"builtin/generated",
+    "textures": {
+        "layer0":"xiaolin:items/serpent"
+        
+    },
+"display": {
+    "thirdperson": {
+        "rotation": [ 182, 94, 308 ],
+        "translation": [ 0.00, 1.00, -4.75 ],
+        "scale": [ 0.76, 0.76, 2.35 ]
+    },
+    "firstperson": {
+        "rotation": [ 4, 32, 328 ],
+        "translation": [ 1.75, 0.00, 0.00 ],
+        "scale": [ 2.00, 2.00, 4.60 ]
+        }
+    }
+}   

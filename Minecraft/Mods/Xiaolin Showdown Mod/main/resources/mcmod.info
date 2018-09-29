@@ -1,0 +1,16 @@
+[
+{
+  "modid": "xiaolin",
+  "name": "Xiaolin Showdown Mod",
+  "description": "Xiaolin Showdown Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "www.google.hu",
+  "updateUrl": "",
+  "authorList": ["Me"],
+  "credits": "Me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

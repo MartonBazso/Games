@@ -1,0 +1,18 @@
+{
+    "parent":"builtin/generated",
+    "textures": {
+        "layer0":"xiaolin:items/moonstone"
+    },
+    "display": {
+        "thirdperson": {
+        "rotation": [ 0, 92, 242 ],
+        "translation": [ 0.25, 2.50, -2.25 ],
+        "scale": [ 0.43, 0.43, 1.00 ]
+    },
+    "firstperson": {
+        "rotation": [ 0, 210, 8 ],
+        "translation": [ 0.50, 2.25, -1.25 ],
+        "scale": [ 1.00, 1.00, 1.36 ]
+     }
+    }
+}
